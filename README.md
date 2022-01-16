@@ -5,8 +5,7 @@ Hi there, I'm <a href="https://www.loganoneal.com/" target="_blank" rel="norefer
 <h2 align="center">
 I'm a CS Student at the University of Tennessee!
 </h2> 
-I love software development and working on exciting and innoavtive projects. My interests include machine learning, computer vision, and data science., 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I love software development and working on exciting and innovative projects. My interests include machine learning, web development, and mobile development. 
 
 ### 🤝 Connect with me:
 
