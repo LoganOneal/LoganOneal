@@ -15,9 +15,10 @@ I love software development and working on exciting and innovative projects. My 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
+## 🔭 Personal Projects I'm currently working on
 
-- I am currently building a fitness app with a goal of one day using ML as an alternative to personal trainers
+- A web app of the popular game board game "Catan"
+- A fitness app with a goal of one day using ML as an alternative to personal trainers
 
 ## 🌱 I'm currently learning
 
