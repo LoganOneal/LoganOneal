@@ -5,7 +5,7 @@ Hi there, I'm <a href="https://www.loganoneal.com/" target="_blank" rel="norefer
 <h2 align="center">
 I'm a CS Student at the University of Tennessee!
 </h2> 
-I love software development and working on exciting and innovative projects. My interests include machine learning, web development, and mobile development. 
+I am interested in software development and working on exciting and innovative projects. My interests include machine learning, web development, and mobile development. 
 
 ### 🤝 Connect with me: 
 <a href="https://www.linkedin.com/in/loganoneal/"><img align="left" src="https://raw.githubusercontent.com/LoganOneal/LoganOneal/main/images/linkedin.svg" alt="Logan O'Neal | LinkedIn" width="21px"/></a>  <a href="https://instagram.com/loganofneal"><img align="left" src="https://raw.githubusercontent.com/LoganOneal/LoganOneal/main/images/instagram.svg" alt="Logan O'Neal | Instagram" width="21px"/></a>
