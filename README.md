@@ -11,16 +11,12 @@ I am interested in software development and working on exciting and innovative p
 <a href="https://www.linkedin.com/in/loganoneal/"><img align="left" src="https://raw.githubusercontent.com/LoganOneal/LoganOneal/main/images/linkedin.svg" alt="Logan O'Neal | LinkedIn" width="21px"/></a>  <a href="https://instagram.com/loganofneal"><img align="left" src="https://raw.githubusercontent.com/LoganOneal/LoganOneal/main/images/instagram.svg" alt="Logan O'Neal | Instagram" width="21px"/></a>
 
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any questions/feedback, hesitate to reach out!
 
-## 🔭 Personal Projects I'm currently working on
-
-- A web app of the popular game board game "Catan"
-- A fitness app with a goal of one day using ML as an alternative to personal trainers
-
-## 🌱I am currently
+## 🔭 I'm currently working on
 
 - Building doc-digest, a platform for accelerating research using machien learning
+- Learning about ML
 
 ## 💼 Technical Skills
 
