@@ -18,11 +18,9 @@ I am interested in software development and working on exciting and innovative p
 - A web app of the popular game board game "Catan"
 - A fitness app with a goal of one day using ML as an alternative to personal trainers
 
-## 🌱 I'm currently learning
+## 🌱I am currently
 
-- 📱 React Native
-- ORM and GraphQL
-- C# 
+- Building doc-digest, a platform for accelerating research using machien learning
 
 ## 💼 Technical Skills
 
