@@ -9,7 +9,8 @@ I am interested in software development and working on exciting and innovative p
 
 ### 🤝 Lets Connect!
 
-<a href="https://www.linkedin.com/in/loganoneal/"><img align="left" src="https://raw.githubusercontent.com/LoganOneal/LoganOneal/main/images/linkedin.svg" alt="Logan O'Neal | LinkedIn" width="21px"/></a>  <a href="https://instagram.com/loganofneal"><img align="left" src="https://raw.githubusercontent.com/LoganOneal/LoganOneal/main/images/instagram.svg" alt="Logan O'Neal | Instagram" width="21px"/></a>
+- <a href="https://www.linkedin.com/in/loganoneal/"><img align="left" src="https://raw.githubusercontent.com/LoganOneal/LoganOneal/main/images/linkedin.svg" alt="Logan O'Neal | LinkedIn" width="21px"/></a>  
+- - <a href="https://instagram.com/loganofneal"><img align="left" src="https://raw.githubusercontent.com/LoganOneal/LoganOneal/main/images/instagram.svg" alt="Logan O'Neal | Instagram" width="21px"/></a>
 
 </br>
 - 💬 If you have any questions/feedback, hesitate to reach out!
