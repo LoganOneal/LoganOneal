@@ -16,7 +16,7 @@ I am interested in software development and working on exciting and innovative p
 
 ## 🔭 I'm currently working on
 
-- Doc-digest, a platform for accelerating research using machine learning
+- Doc-digest, a platform for accelerating reading research papers using machine learning
 
 ## 💼 Technical Skills
 
