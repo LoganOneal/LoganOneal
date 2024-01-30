@@ -38,7 +38,3 @@ I am interested in software development and working on exciting and innovative p
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-
-## 📈 GitHub Stats 
-
-[![Logan O'Neal's github stats](https://github-readme-stats.vercel.app/api?username=loganoneal)](https://github.com/loganoneal)
