@@ -16,7 +16,8 @@ I am interested in software development and working on exciting and innovative p
 
 ## 🔭 I'm currently working on
 
-- Doc-digest, a platform for accelerated learning using text to speech and ML summarization tools
+- Laborup - An AI platform for recruiting in the manufacturing industry
+- SplitIt - A mobile app to streamline splitting receipts
 
 ## 💼 Technical Skills
 
