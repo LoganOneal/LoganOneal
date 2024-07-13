@@ -14,11 +14,6 @@ I am interested in software development and working on exciting and innovative p
 </br>
 - 💬 If you have any questions/feedback, please reach out!
 
-## 🔭 I'm currently working on
-
-- Laborup - An AI platform for recruiting in the manufacturing industry
-- SplitIt - A mobile app to streamline splitting receipts
-
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
