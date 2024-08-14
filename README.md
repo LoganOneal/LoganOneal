@@ -3,7 +3,7 @@ Hi there, I'm <a href="https://www.loganoneal.com/" target="_blank" rel="norefer
 </h3>
 
 <h2 align="center">
-I'm a CS Student at the University of Tennessee!
+I'm a Software Engineer 
 </h2> 
 I am interested in software development and working on exciting and innovative projects. My interests include machine learning, web development, and mobile development. 
 
