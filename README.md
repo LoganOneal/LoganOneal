@@ -12,7 +12,7 @@ Building the agentic BI and revenue optimization platform for hospitality.
 
 I'm a software engineer turned founder building [Terrace](https://useterrace.ai) — an agentic platform that gives hotels real-time business intelligence and automated revenue optimization. We're replacing legacy hotel revenue management with AI agents that analyze demand signals, competitor pricing, and booking patterns to drive measurable RevPAR growth.
 
-Before Terrace, I built **[LaborUp](https://laborup.com)**, a workforce platform, from the ground up. That experience shipping production systems at scale — and seeing firsthand how much operational decision-making is still manual — is what led me to hospitality tech.
+I'm passionate about startups and building software that solves real operational problems — which is what led me to hospitality tech.
 
 ### What Terrace Does
 
