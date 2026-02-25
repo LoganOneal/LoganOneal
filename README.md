@@ -1,36 +1,27 @@
-<h3 align="center">
-Hi there, I'm <a href="https://www.loganoneal.com/" target="_blank" rel="noreferrer">Logan</a> 👋
-</h3>
+<h1 align="center">Logan O'Neal</h1>
 
-<h2 align="center">
-I'm a Software Engineer 
-</h2> 
-I am interested in software development and working on exciting and innovative projects. My interests include machine learning, web development, and mobile development. 
+<h3 align="center">Co-Founder & CTO — <a href="https://useterrace.ai" target="_blank" rel="noreferrer">Terrace AI</a></h3>
 
-### 🤝 Lets Connect!
+<p align="center">
+Building the agentic BI and revenue optimization platform for hospitality.
+</p>
 
-- <a href="https://www.linkedin.com/in/loganoneal/"><img align="left" src="https://raw.githubusercontent.com/LoganOneal/LoganOneal/main/images/linkedin.svg" alt="Logan O'Neal | LinkedIn" width="21px"/></a>   <a href="https://instagram.com/loganofneal"><img align="left" src="https://raw.githubusercontent.com/LoganOneal/LoganOneal/main/images/instagram.svg" alt="Logan O'Neal | Instagram" width="21px"/></a>
+---
 
-</br>
-- 💬 If you have any questions/feedback, please reach out!
+### About Me
 
-## 💼 Technical Skills
+I'm a software engineer turned founder building [Terrace](https://useterrace.ai) — an agentic platform that gives hotels real-time business intelligence and automated revenue optimization. We're replacing legacy hotel revenue management with AI agents that analyze demand signals, competitor pricing, and booking patterns to drive measurable RevPAR growth.
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&color=red)
+Before Terrace, I built **[LaborUp](https://laborup.com)**, a workforce platform, from the ground up. That experience shipping production systems at scale — and seeing firsthand how much operational decision-making is still manual — is what led me to hospitality tech.
 
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
-![](https://img.shields.io/badge/Style-Material--UI-informational?style=flat&logo=Material-UI&color=0081CB)
+### What Terrace Does
 
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=Yarn&color=2C8EBB)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=FF6C37)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+- **Agentic BI for Hotels** — AI agents that surface actionable insights from fragmented hotel data (PMS, RMS, OTAs, market data) without manual reporting
+- **Revenue Optimization** — Automated pricing and inventory recommendations that adapt in real time to demand shifts, events, and competitive dynamics
+- **Built for Operators** — Designed so revenue managers and GMs can act on insights instantly, not wait on analyst teams
+
+### Connect
+
+<a href="https://www.linkedin.com/in/loganoneal/"><img src="https://raw.githubusercontent.com/LoganOneal/LoganOneal/main/images/linkedin.svg" alt="LinkedIn" width="21px"/></a>&nbsp;&nbsp;<a href="https://www.loganoneal.com/" target="_blank" rel="noreferrer">loganoneal.com</a>
+
+💬 Building in hospitality AI — always happy to connect. Reach out anytime.
